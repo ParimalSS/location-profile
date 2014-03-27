@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">location profile</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="planets_array">
+        <item>123</item>
+        <item android:id="@+id/item1" android:layout_height="wrap_content" android:layout_width="wrap_content">second</item>
+        <item android:id="@+id/item1" android:layout_height="wrap_content" android:layout_width="wrap_content">third</item>
+        <item android:id="@+id/item1" android:layout_height="wrap_content" android:layout_width="wrap_content">4</item>
+        <item android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/item1">5</item>
+    </string-array>
+
+    <string name="title_activity_gridactivity">Gridactivity</string>
+
+      <string name="app1_name">Smart GPS</string>
+    <string name="title_activity_resultat">Smart GPS</string>
+    <string name="title_activity_mapa">Smart GPS</string>
+    <string name="title_activity_track_me">Smart Gps</string>
+    
+    <string name="dialogTitol">Wireless networks disabled</string>
+    <string name="dialogMsg">Enable GPS or wireless networks to screen settings</string>
+    <string name="dialogBotoSi">Go to Preferences</string>
+    <string name="dialogBotoNo">Exit</string>
+    <string name="guardaPosicioCada">Guard every position</string>
+    <string name="segueixmeDurant">Follow me at</string>
+    <string name="minuts">minutes (1 .. 99)</string>
+    <string name="botoAcceptar">done</string>
+	<string name="errorEntradaUsuari">Please enter between 1 and 99 minutes</string>
+    
+    <string name="trackmeSeguint"> t\'is following&#8230;</string>
+    <string name="botoCancelar">Cancel</string>
+	<string name="notiTitol">Smart GPS</string>
+    <string name="notiDescripcio">you have to be consultation on</string>
+    <string name="notiStartDescripcio">Smart GPS t\'is following!</string>
+
+    <string name="toesLesLocations">All positions</string>
+    <string name="noHiHaLocations">I have obtained new positions</string>
+    <string name="botoSortir">exit</string>
+    <string name="textMapa">Smart GPS t\'has been following</string>
+    <string name="errorMapa">Error obtaining maps</string>
+    <string name="markerMapa">TRACKED!</string>
+    
+    
+</resources>
